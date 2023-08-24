@@ -6,5 +6,4 @@
 ## Icerik olarak 
 >index.html
 >style.css
->img
 >dosyaları bulunmaktadır
